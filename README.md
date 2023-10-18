@@ -12,7 +12,7 @@
 2. close cmd and again open cmd as administrator.
 3.then run `command CMD.exe /c curl -s https://raw.githubusercontent.com/khumnath/merobaja/main/install-win.bat | cmd`
 4.installation is finished you can search plugin on your DAW.
-5. `for activate plugin contact me
+5. for activate plugin contact me
 
 ## install in mac os 
 1. open terminal and check git version by typing `git --version`
