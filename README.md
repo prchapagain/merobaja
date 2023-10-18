@@ -1,11 +1,18 @@
 # mero baja nepali musical instruments vst and au plugins
+
 ## install on windows
 1. clone this repository or download this repository from [here](https://github.com/khumnath/merobaja/archive/refs/heads/main.zip)
 2. copy all contents from `windows` folder to `c:\Program Files\Steinberg\Vstplugins`
 3. refresh your DAW or rescan plugins.
 4. find plugin merobaja and add to instrument track.
-5. i will try to make auto install script for windows soon.
 6. when plugin asks for activation code contact me.
+
+## install windows from commandline
+1. open cmd and run `winget install --id Git.Git -e --source winget` and give administrator right to install git.
+2. close cmd and again open cmd as administrator.
+3.then run `command CMD.exe /c curl -s https://raw.githubusercontent.com/khumnath/merobaja/main/install-win.bat | cmd`
+4.installation is finished you can search plugin on your DAW.
+5. `for activate plugin contact me
 
 ## install in mac os 
 1. open terminal and check git version by typing `git --version`
