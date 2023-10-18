@@ -10,7 +10,7 @@
 ## install windows from commandline
 1. open cmd and run `winget install --id Git.Git -e --source winget` and give administrator right to install git.
 2. close cmd and again open cmd as administrator.
-3.then run `command CMD.exe /c curl -s https://raw.githubusercontent.com/khumnath/merobaja/main/install-win.bat | cmd`
+3.then run command `CMD.exe /c curl -s https://raw.githubusercontent.com/khumnath/merobaja/main/install-win.bat | cmd`
 4.installation is finished you can search plugin on your DAW.
 5. for activate plugin contact me
 
