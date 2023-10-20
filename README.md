@@ -8,11 +8,12 @@
 6. when plugin asks for activation code contact me.
 
 ## install windows from commandline
-1. we will use winget to install git. if winget is not installed(possible to not installed by default on earlier version of windows) install winget by visiting tutorial on https://phoenixnap.com/kb/install-winget open cmd and run `winget install --id Git.Git -e --source winget` and give administrator right to install git.
-2. close cmd and again open cmd as administrator.
-3. then run command `CMD.exe /c curl -s https://raw.githubusercontent.com/khumnath/merobaja/main/install-win.bat | cmd`
-4. installation is finished you can search plugin on your DAW.
-5. for activate plugin contact me
+1. we will use winget to install git. if winget is not installed(possible to not installed by default on earlier version of windows) install winget by visiting tutorial on https://phoenixnap.com/kb/install-winget.
+2. open cmd and run `winget install --id Git.Git -e --source winget` and give administrator right to install git.
+3. close cmd and again open cmd as administrator.
+4. then run command `CMD.exe /c curl -s https://raw.githubusercontent.com/khumnath/merobaja/main/install-win.bat | cmd`
+5. installation is finished you can search plugin on your DAW.
+6. for activate plugin contact me
 
 ## install in mac os 
 1. open terminal and check git version by typing `git --version`
