@@ -17,7 +17,7 @@
 
 ## install in mac os 
 1. open terminal and check git version by typing `git --version`
-2. if there is git installed  command output will be  like this `git version 2.24.3 ..........` or it will alert you that git is an unknown command. If it's an unknown command install git using command `sudo xcode-select install` and check again git version.
+2. if there is git installed  command output will be  like this `git version 2.24.3 ..........` or it will alert you that git is an unknown command. If it's an unknown command install git using command `sudo xcode-select --install` and check again git version.
 3. to install merobaja plugin automaticaly run command `bash <(curl -s https://raw.githubusercontent.com/khumnath/merobaja/main/download-and-install.sh)`
 4. load plugin in logic pro from Software Instrument:point_right:AU Instruments:point_right:merotips.com:point_right:merobaja.
 5. for activate plugin contact me
